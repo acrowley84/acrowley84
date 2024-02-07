@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/antonio crowley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio crowley" height="30" width="40" /></a>
-<a href="https://fb.com/antonio d crowley" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="antonio d crowley" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/antonio-crowley-25a3a61a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-crowley-25a3a61a7" height="30" width="40" /></a>
+<a href="https://fb.com/toniofye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="toniofye" height="30" width="40" /></a>
 <a href="https://instagram.com/eyefound1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eyefound1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/xoloofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xoloofficial" height="30" width="40" /></a>
 </p>
